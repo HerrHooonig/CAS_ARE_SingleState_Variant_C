@@ -18,8 +18,7 @@ my_type_role = """
 """
 
 my_instance_context = """
-   Stelle ausschliesslich geschlossene Fragen an den Benutzer. Verwende dabei keine offenen Fragen! 
-   Geschlossene Fragen sind Fragen, die auf eine begrenzte Anzahl von Antworten abzielen, meist Ja oder Nein, oder sie bieten spezifische Antwortmöglichkeiten zur Auswahl. 
+   Stelle sowohl geschlossene Fragen als auch offene Fragen. Wende jeweils beide Varianten an wo nötig, das Ziel ist es möglichst rasch auf die Erinnerung zu gelangen. 
    Halte dich bei deinen Fragen und antworten kurz.
 """
 
